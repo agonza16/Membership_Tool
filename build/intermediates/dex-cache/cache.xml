@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abel\StudioProjects\MemebershipPhoneNumberGuide\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Abel\StudioProjects\MemebershipPhoneNumberGuide\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_c216998f51b90c9bd15f495fc479bfdf67a55258.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abel\StudioProjects\MemebershipPhoneNumberGuide\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69aeec1192a85278ccc47b8e0b8658f043634834">
+        <dex dex="C:\Users\Abel\StudioProjects\MemebershipPhoneNumberGuide\app\build\intermediates\pre-dexed\debug\instant-run_1edf778b1387a10f9171fbf75c5cd8d231ee299e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abel\StudioProjects\MemebershipPhoneNumberGuide\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Abel\StudioProjects\MemebershipPhoneNumberGuide\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_be8d887a6d42682924755752cf60f9e26b6adebf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abel\StudioProjects\MemebershipPhoneNumberGuide\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Abel\StudioProjects\MemebershipPhoneNumberGuide\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_2dac0f4ee33acaf52f841a496deb67bcfcfd3738.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abel\StudioProjects\MemebershipPhoneNumberGuide\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Abel\StudioProjects\MemebershipPhoneNumberGuide\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_0a183453dbad89fd2a55e4ce261c495875cb124a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Abel\StudioProjects\MemebershipPhoneNumberGuide\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_64840bd3c31703ab8bc83c1b146681ec03a12ee7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abel\StudioProjects\MemebershipPhoneNumberGuide\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Abel\StudioProjects\MemebershipPhoneNumberGuide\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_a0e0212a27041812c621e95717bcd9c13647b262.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abel\StudioProjects\MemebershipPhoneNumberGuide\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Abel\StudioProjects\MemebershipPhoneNumberGuide\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_e6400f13e9b25bc4f1ce8e10f2e9fcf0b593c163.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abel\StudioProjects\MemebershipPhoneNumberGuide\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Abel\StudioProjects\MemebershipPhoneNumberGuide\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_2de8863aed0d469652569ad940e709c73ebc17a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abel\StudioProjects\MemebershipPhoneNumberGuide\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Abel\StudioProjects\MemebershipPhoneNumberGuide\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_11154750bcff723230469eaa6f64542a5628e891.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abel\StudioProjects\MemebershipPhoneNumberGuide\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d8aa29652fde14c9aebe3523b51f6ceb8caffb8">
+        <dex dex="C:\Users\Abel\StudioProjects\MemebershipPhoneNumberGuide\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_f38819b396d41bb1f9d79579ea27eb54b67f7e2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abel\StudioProjects\MemebershipPhoneNumberGuide\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Abel\StudioProjects\MemebershipPhoneNumberGuide\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_ccfbdf130c847e4ffac7d0a033128f8ac1e6c2f2.jar" />
+    </item>
+
+</items>
